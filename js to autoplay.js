@@ -1,1 +1,0 @@
-  <><script src="https://consent.cookiebot.com/uc.js" data-cbid="4a6af4ea-f614-41d8-b0a9-8bb6d7fe4799" async="async" id="Cookiebot" nonce="+PfqSEZFpXtOWEUCLpygIg=="></script><script src="https://public-assets.envato-static.com/assets/market/core/standard_measurements-3bc54d0cbac28acaf9e49915490168f52bb9b8bea5d35f6edabb67a686a83af4.js" nonce="+PfqSEZFpXtOWEUCLpygIg=="></script></>
